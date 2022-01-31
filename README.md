@@ -1,3 +1,8 @@
+# Blog
+# Miscellanous
+Click [here](blog/biohacks/cocoonut_oil_310122.md) for infos on how ketones can help with desk endurance (sic!) :D
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/thinkcomputationally/thinkcomputationally.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
